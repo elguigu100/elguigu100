@@ -90,17 +90,23 @@ Durante esta etapa aprobé formación en:
 
 ### Insignia de formación
 
+<a href="https://www.credly.com/badges/9b9feaf5-bb16-41b6-ac58-16a0787f8060/public_url">
+  <img src="./assets/aws-cloud-quest.png" alt="AWS Cloud Quest: Cloud Practitioner — Training Badge" width="160">
+</a>
+
 **AWS Cloud Quest: Cloud Practitioner — Training Badge**
+
+[Ver credencial en Credly](https://www.credly.com/badges/9b9feaf5-bb16-41b6-ac58-16a0787f8060/public_url)
 
 Formación práctica completada mediante las actividades
 de AWS Cloud Quest.
 
 ### Cursos completados
 
-| Curso | Fecha de finalización |
-|---|---|
-| AWS Security Fundamentals | 19 de noviembre de 2026 |
-| Introduction to Generative AI – Art of the Possible · Español LATAM | 18 de noviembre de 2026 |
+| Curso | Fecha de finalización | Certificado |
+|---|---|---|
+| AWS Security Fundamentals | 19 de noviembre de 2026 | [Ver certificado](./certificados/aws-security-fundamentals.pdf) |
+| Introduction to Generative AI – Art of the Possible · Español LATAM | 18 de noviembre de 2026 | [Ver certificado](./certificados/aws-generative-ai-art-of-the-possible.pdf) |
 
 ## Próximos pasos
 
